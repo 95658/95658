@@ -84,24 +84,34 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%">
       <h3 align="center">⚡ SyncUp (Frontend)</h3>
-      <p align="center">Enterprise-grade multi-tenant workspace platform featuring Jira-grade Agile sprints, real-time team channels, and full Arabic/English (RTL/LTR) support.</p>
+      <p align="center">Next-gen multi-tenant agile workspace with Jira-style sprints, real-time channels, and full RTL/LTR localization.</p>
       <p align="center">
-        <b>Tech:</b> Next.js 14 • TypeScript • Tailwind CSS • Zustand • WebSockets
+        <b>Next.js 14 • TypeScript • Tailwind</b>
       </p>
       <p align="center">
-        <a href="https://github.com/95658/SyncUp-frontend"><b>View Repository →</b></a>
+        <a href="https://github.com/95658/SyncUp-frontend"><b>View Frontend →</b></a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">📱 Cross-Platform Flutter Suite</h3>
-      <p align="center">Production-ready mobile applications built with clean architecture, state management (Bloc/Provider/GetX), and real-time backend synchronization.</p>
+    <td width="33%">
+      <h3 align="center">🛡️ SyncUp (Backend API)</h3>
+      <p align="center">Enterprise multi-tenant microservices engine with WebSockets, Prisma ORM, Bull Queues, Redis, and RBAC.</p>
       <p align="center">
-        <b>Tech:</b> Flutter • Dart • Firebase • REST APIs • Clean Architecture
+        <b>NestJS • TypeScript • Prisma • Socket.io</b>
       </p>
       <p align="center">
-        <a href="https://github.com/95658?tab=repositories"><b>Explore Repositories →</b></a>
+        <a href="https://github.com/95658/SyncUp-backend"><b>View Backend →</b></a>
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center">📱 Mobile Flutter Suite</h3>
+      <p align="center">Production-ready mobile applications built with clean architecture, reactive state management, and real-time backend sync.</p>
+      <p align="center">
+        <b>Flutter • Dart • Clean Architecture</b>
+      </p>
+      <p align="center">
+        <a href="https://github.com/95658?tab=repositories"><b>Explore Apps →</b></a>
       </p>
     </td>
   </tr>
